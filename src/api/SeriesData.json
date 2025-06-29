@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Ozark",
+        "id": "Ozark",
+        "img_url": "https://ntvb.tmsimg.com/assets/p14264042_b_h8_aj.jpg?w=960&h=540",
+        "rating": "8.4",
+        "description": "Ozark is a crime thriller about a financial planner who moves his family to the Ozarks to launder money for a drug cartel, facing danger and moral dilemmas along the way.",
+        "cast": ["Jason Bateman","Laura Linney","Julia Garner"],
+        "genre":["Crime", "Drama","Thriller"],
+        "watch_url":"https://www.netflix.com/pk/title/80117552"
+    },
+    {
+        "name": "Money Heist",
+        "id": "Money-Heist",
+        "img_url": "https://www.milesweb.in/blog/wp-content/uploads/2021/09/10-insightful-Business-Growth-Learnings-From-Money-Heist.jpg",
+        "rating": "8.3",
+        "description":"Money Heist is a Spanish crime thriller about a criminal mastermind, The Professor, who leads a group of robbers to pull off heists on the Royal Mint and Bank of Spain, using clever strategies and emotional drama to challenge the system.",
+        "cast": ["Álvaro Morte is a Spanish actor, best known as The Professor in Money Heist."],
+        "genre":["Crime", "Thriller", "Drama", "Heist"],
+        "watch_url":"https://www.netflix.com/title/80192098"
+    },
+    {
+        "name": "Squid Game",
+        "id": "Squid-Game",
+        "img_url": "https://static1.squarespace.com/static/5e5faa580db5876fc34b2a41/5e5fb9bef4cda81d018d72db/65520baca818934da361cdac/1700651689398/Squid+Game+Thumbnail+for+web+%28Without+Text%29.jpg?format=1500w",
+        "rating": "8.1",
+        "description": "Squid Game is a South Korean survival drama where 456 people with financial struggles compete in deadly children games for a huge cash prize, revealing dark secrets about society and human nature.",
+        "cast": ["Lee Jung-jae  Seong Gi-hun","Park Hae-soo  Cho Sang-woo","Oh Young-soo  Oh Il-nam"],
+        "genre":["Romantic","Comedy","Fantasy"],
+        "watch_url":"https://www.netflix.com/title/81040344"
+    },
+    {
+        "name": "The Crown",
+        "id": "Crown",
+        "img_url": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXfdWYf6jKxeWfc001lYCsqTwstNB6uLLtodaM_m8kmC1U8kSKxlGI6RViiCBCtq6VQ7RX5ZCmfC-xLTYYfqkTKTG98kGo5z7k3WfB9mELIx5R5oWb88G22_jr_rQ8dC1qPzEA.webp?r=8c1",
+        "rating": "8.6",
+        "description": "The Crown is a drama series about Queen Elizabeth II’s reign, showing her personal life and major historical events in the UK.",
+        "cast": ["Imelda Staunton","Jonathan Pryce","Lesley Manville "],
+        "genre":["Historical Drama" , "Biography", "`Political Drama"],
+        "watch_url":"https://www.netflix.com/title/80025678"
+    },
+    {
+        "name": "The Witcher",
+        "id": "Witcher",
+        "img_url": "https://resizing.flixster.com/HSdzNFzPmhp0eygiKxs_AiVlyp8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17580215_b_h8_aa.jpg",
+        "rating": "8.2",
+        "description": "The Witcher is a fantasy series following Geralt of Rivia, a monster hunter navigating a dangerous world full of magic, beasts, and political intrigue.",
+        "cast": ["Henry Cavill","Anya Chalotra","Freya Allan","Joey Batey"],
+        "genre":["Fantasy","Action","Adventure","Drama"],
+        "watch_url":"https://www.netflix.com/title/80189685"
+    },
+    {
+        "name": "Dark",
+        "id": "Dark",
+        "img_url": "https://wallpapersok.com/images/hd/split-poster-of-the-dark-netflix-original-series-69qiv32a2ee7t57l.jpg",
+        "rating": "8.7",
+        "description": "Set in the fictional town of Winden, the disappearance of children exposes interwoven family secrets and launches a labyrinthine time‑travel conspiracy spanning multiple generations. The series explores existential themes, human nature, and the paradoxes of time.",
+        "cast": ["Louis Hofmann","Oliver Masucci","Jördis Triebel"],
+        "genre":["Drama","Mystery","Thriller"],
+        "watch_url":"https://www.netflix.com/pk/title/80100172"
+    },
+    {
+        "name": "Wednesday",
+        "id": "Wednesday",
+        "img_url": "https://www.heavenofhorror.com/wp-content/uploads/2022/11/wednesday-netflix-review.jpg",
+        "rating": "8.4",
+        "description": "Wednesday is a supernatural mystery series about Wednesday Addams solving dark mysteries while attending Nevermore Academy.",
+        "cast": ["Jenna Ortega ","Catherine Zeta-Jones","Luis Guzmán"],
+        "genre":["Supernatural", "Mystery", "Comedy-Drama"],
+        "watch_url":"https://www.netflix.com/pk/title/81231974"
+    }
+]
