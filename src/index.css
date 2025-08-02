@@ -3,8 +3,14 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Urbanist", sans-serif;
+  background-color: inherit;
+  color: inherit;
 }
-
+body{
+  padding: 20px;
+  background-color: var(--bc-clr);
+  transition: background-color 0.2s ease;
+}
 html{
   font-size: 62.5%;
 }
@@ -22,7 +28,7 @@ h1{
   font-size: 3.2rem;
 }
 
-p,li,a,label{
+li,a,label{
   font-size: 1.8rem;
   letter-spacing: 0.1rem;
   color: var(--para-color);
@@ -44,7 +50,7 @@ a{
   --heading-color:#000a19;
   --h-color:#0a043c;
   --white-color:#ffffff;
-  --test:#070101;
+  --text:#070101;
   --para-color:#504e4d;
   --btn-hover-bg-color:#003b99;
   --btn-box-shadow:rgba(100,100,111,0.2) 0px 7px 29px 0px;
@@ -58,9 +64,6 @@ a{
   display: grid;
   gap: 9.6rem;
 }
-.grid-two--cols {
-  grid-template-columns: repeat(2, 1fr);
-}
 .grid-three--cols {
   grid-template-columns: repeat(3, 1fr);
 }
@@ -68,4 +71,49 @@ a{
   .grid-three--cols{
   grid-template-columns: repeat(2, 1fr);
   }
+}
+
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  color: var(--bg-color);
+}
+
+.btn{
+  margin: 20px 0 15px 45%;
+  background-color: var(--btn-bg-color);
+  color: var(--btn-text-clr);
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.dark-theme{
+  --para-clr:#fff;
+  --btn-bg-color:#5f99be;
+  --btn-text-clr:#fff;
+  --bc-clr:#111b20;
+  --sumry-clr:#fff;
+}
+.light-theme{
+  --para-clr:#333;
+  --btn-bg-color:#111b20;
+  --btn-text-clr:#fff;
+  --bc-clr:#fff;
+  --sumry-clr:#000;
+}
+.cardcontent.para{
+  color: var(--sumry-clr);
+}
+h1{
+  color: var(--para-clr);
+}
+.card{
+  background-color: var(--bc-clr);
+}
+.card.cardcontent{
+  color: var(--bc-clr);
 }

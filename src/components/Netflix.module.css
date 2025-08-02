@@ -8,7 +8,7 @@ img{
 img:hover{
     border-radius: 10px;
     cursor: pointer;
-    transition:all .1s ease-out;
+    transition:all .1s ease-in-out;
     transform: scale(1.1) ;
     translate:0px ;
 }
@@ -19,12 +19,13 @@ img:hover{
     flex-direction: column;
     gap: 1.2rem;
 }
-span{
-    color: var(--heading-color);
+
+span,h2,h3{
+    color: var(--para-clr);
 }
 .rating{
     padding: 0.3rem 1.8rem;
-    color: #000;
+    color: var(--white-color);
     margin-left: 1.2rem;
     border-radius: 100rem;
 }
@@ -33,4 +34,13 @@ span{
 }
 .average{
     background-color: #f7dc6f;
+}
+.card a{
+    width: 140px;
+}
+button:hover{
+    transition:all .1s ease-in-out;
+    transform: scale(1.1);
+    translate:0px ;
+    border-radius: 20px;
 }

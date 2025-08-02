@@ -50,14 +50,14 @@
         "watch_url":"https://www.netflix.com/title/80189685"
     },
     {
-        "name": "Dark",
-        "id": "Dark",
-        "img_url": "https://wallpapersok.com/images/hd/split-poster-of-the-dark-netflix-original-series-69qiv32a2ee7t57l.jpg",
-        "rating": "8.7",
-        "description": "Set in the fictional town of Winden, the disappearance of children exposes interwoven family secrets and launches a labyrinthine time‑travel conspiracy spanning multiple generations. The series explores existential themes, human nature, and the paradoxes of time.",
-        "cast": ["Louis Hofmann","Oliver Masucci","Jördis Triebel"],
-        "genre":["Drama","Mystery","Thriller"],
-        "watch_url":"https://www.netflix.com/pk/title/80100172"
+        "name": "The Leopard",
+        "id": "The Leopard",
+        "img_url": "https://cdn.technadu.com/wp-content/uploads/2025/03/The-Leopard-1.jpg",
+        "rating": " 7.5",
+        "description": "The Leopard is a historical drama set in 1860s Sicily, following a noble family's struggle during Italy’s unification. As the old world collapses, love, power, and legacy collide in this visually rich, emotionally layered Netflix series.",
+        "cast": ["Kim RossiStuart","Saul Nanni","Deva Cassel "],
+        "genre":["Historical Drama"," Period Romance","Family Saga"],
+        "watch_url":"https://www.netflix.com/pk/title/81392676"
     },
     {
         "name": "Wednesday",

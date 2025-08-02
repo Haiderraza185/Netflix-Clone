@@ -1,10 +1,10 @@
 import styles from "./Netflix.module.css";
-
+  
 const SeriesCard = ({curElem}) =>{
 
-  const {img_url,name,description,rating,cast,genre,watch_url} = curElem; 
-
-  const ratingClass = rating  >= 8.5 ? styles.super_hit : styles.average;
+  const {img_url,name,description,rating,cast,genre,watch_url} = curElem;
+  
+  const ratingClass = rating >= 8.5 ? styles.super_hit : styles.average;
   // Inline styling
   const btn_style = {
     padding : "1.2rem 2.4rem",
