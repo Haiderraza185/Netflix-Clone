@@ -106,28 +106,20 @@ h1{
 h1{
   color: var(--para-clr);
 }
-.card{
-  background-color: var(--bc-clr);
-}
 .card.cardcontent{
   color: var(--bc-clr);
 }
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:410px) {
   .grid-three--cols{
-  grid-template-columns: repeat(1, 1fr);
+  display: block;
   }
   h1{
-    font-size: 20px;
-    width: 60vh;
-    margin-left: 20px;
+    font-size: 15px;
+    width: 50vh;
+    margin-left: 55px;
   }
   .btn{
-    margin-left: 38%;
-  }
-  .card div img:hover{
-    transition: all .1s ease-in-out;
-    transform: scale(1);
-    translate: 0;
+    margin-left: 37%;
   }
 }
