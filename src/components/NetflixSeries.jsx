@@ -2,6 +2,7 @@ import { useState } from "react";
 import seriesData from "../api/SeriesData.json";
 import SeriesCard  from "./SeriesCard";
 
+
   const NetflixSeries = () =>{
 
     return(

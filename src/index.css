@@ -67,11 +67,6 @@ a{
 .grid-three--cols {
   grid-template-columns: repeat(3, 1fr);
 }
-@media screen and (max-width:830px) {
-  .grid-three--cols{
-  grid-template-columns: repeat(2, 1fr);
-  }
-}
 
 h1{
   text-align: center;
@@ -116,4 +111,23 @@ h1{
 }
 .card.cardcontent{
   color: var(--bc-clr);
+}
+
+@media screen and (max-width:420px) {
+  .grid-three--cols{
+  grid-template-columns: repeat(1, 1fr);
+  }
+  h1{
+    font-size: 20px;
+    width: 60vh;
+    margin-left: 20px;
+  }
+  .btn{
+    margin-left: 38%;
+  }
+  .card div img:hover{
+    transition: all .1s ease-in-out;
+    transform: scale(1);
+    translate: 0;
+  }
 }
