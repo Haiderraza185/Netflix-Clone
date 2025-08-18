@@ -110,14 +110,17 @@ h1{
   color: var(--bc-clr);
 }
 
-@media screen and (max-width:410px) {
+@media (max-width:720px) and (max-width:420px) {
   .grid-three--cols{
   display: block;
   }
+  li{
+    margin-bottom: 50px;
+  }
   h1{
     font-size: 15px;
-    width: 50vh;
-    margin-left: 55px;
+    width: 250px;
+    margin-left: 40px;
   }
   .btn{
     margin-left: 37%;

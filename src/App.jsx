@@ -13,6 +13,7 @@ function App() {
     document.body.className = theme;
   },[theme]);
 
+
   return (
     <>
     <h1>Top Netflix Series Cards</h1>

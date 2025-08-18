@@ -12,7 +12,7 @@
     {
         "name": "Money Heist",
         "id": "Money-Heist",
-        "img_url": "https://www.milesweb.in/blog/wp-content/uploads/2021/09/10-insightful-Business-Growth-Learnings-From-Money-Heist.jpg",
+        "img_url": "https://phantom-marca.unidadeditorial.es/09c5ac31a16e7ec0fca718a8dfd157df/crop/0x477/1500x1316/resize/1200/f/jpg/assets/multimedia/imagenes/2021/08/03/16280000722808.jpg",
         "rating": "8.3",
         "description":"Money Heist is a Spanish crime thriller about a criminal mastermind, The Professor, who leads a group of robbers to pull off heists on the Royal Mint and Bank of Spain, using clever strategies and emotional drama to challenge the system.",
         "cast": ["Álvaro Morte is a Spanish actor, best known as The Professor in Money Heist."],
@@ -46,7 +46,7 @@
         "rating": "8.2",
         "description": "The Witcher is a fantasy series following Geralt of Rivia, a monster hunter navigating a dangerous world full of magic, beasts, and political intrigue.",
         "cast": ["Henry Cavill","Anya Chalotra","Freya Allan","Joey Batey"],
-        "genre":["Fantasy","Action","Adventure","Drama"],
+        "genre":["Action","Adventure","Drama"],
         "watch_url":"https://www.netflix.com/title/80189685"
     },
     {
@@ -66,7 +66,7 @@
         "rating": "8.4",
         "description": "Wednesday is a supernatural mystery series about Wednesday Addams solving dark mysteries while attending Nevermore Academy.",
         "cast": ["Jenna Ortega ","Catherine Zeta-Jones","Luis Guzmán"],
-        "genre":["Supernatural", "Mystery", "Comedy-Drama"],
+        "genre":["Fantasy","Mystery", "Comedy-Drama"],
         "watch_url":"https://www.netflix.com/pk/title/81231974"
     }
 ]
